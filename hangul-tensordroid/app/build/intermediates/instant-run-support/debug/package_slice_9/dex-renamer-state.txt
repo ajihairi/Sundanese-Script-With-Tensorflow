@@ -1,0 +1,4 @@
+#Thu Mar 01 02:35:25 WIB 2018
+base.0=/Users/hamzhya/Downloads/tensorflow-hangul-recognition-master/hangul-tensordroid/app/build/intermediates/transforms/dexMerger/debug/9
+path.0=classes.dex
+renamed.0=classes.dex
